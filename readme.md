@@ -30,5 +30,3 @@
 
 - 
 
-
-![alt text](C:\Users\nicke\Pictures\Camera Roll\windows.png)
