@@ -29,3 +29,6 @@
 # 8, Vad är en "roll" i Windows Server? 
 
 - 
+
+
+![alt text](C:\Users\nicke\Pictures\Camera Roll\windows.png)
