@@ -12,7 +12,7 @@
 
 ### 4, Vad är Hyper-V?
 
-- Hyper-V är ett ställe för att skapa virtuella maskiner som körs på windows
+- Hyper-V är en tjänst för att skapa virtuella maskiner som körs på windows
 
 ### 5, Vad är System Center Virtual Machine Manager?
 
@@ -20,13 +20,13 @@
 
 ### 6, Vad är Powershell?
 
-- I powershell kan man köra kommandon för automatisera olika delar av windows, används mycket inom AD
+- I powershell kan man köra kommandon för automatisera olika delar av windows t.ex. automatisera skapande av användare i AD.
 
 ### 7, Var felsöker man, eller övervakar tjänster i Windows Server?
 
-- 
+- Aktivitetshanteraren.
 
 ### 8, Vad är en "roll" i Windows Server? 
 
-- 
+- Active Directory Domain Services, Network Policy Access Services, Active Directory Federation Services.
 
