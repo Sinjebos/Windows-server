@@ -24,9 +24,9 @@
 
 ### 7, Var felsöker man, eller övervakar tjänster i Windows Server?
 
-- Aktivitetshanteraren.
+- Aktivitetshanteraren, Server Manager.
 
 ### 8, Vad är en "roll" i Windows Server? 
 
-- Active Directory Domain Services, Network Policy Access Services, Active Directory Federation Services.
+- Finns massor av olika roller men för nämna några: Active Directory Domain Services, Network Policy Access Services, Active Directory Federation Services.
 
