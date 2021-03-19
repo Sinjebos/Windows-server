@@ -16,11 +16,11 @@
 
 ### 5, Vad är System Center Virtual Machine Manager?
 
-- Det underlättar administratörs konfigurationer med att koppla ihop alla verktyg till ett och samma ställe.
+- Det är en konsol som hanterar virtuella maskiner.
 
 ### 6, Vad är Powershell?
 
-- I powershell kan man köra kommandon för automatisera olika delar av windows t.ex. automatisera skapande av användare i AD.
+- I powershell kan man köra kommandon för automatisera olika delar av windows t.ex. automatisera skapandet av användare i AD.
 
 ### 7, Var felsöker man, eller övervakar tjänster i Windows Server?
 
